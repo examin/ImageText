@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\6aaf74a65c794a007d8ef8798c5769bf2335b7aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_822d97ac2b8e0c381ebe353d9fd56de4e316b3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\bed6193837ee84328b64a0cb2675a38ec646326b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7590a8e048b090a60a8358862e9278cd9c9682cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\b31777242e24bfaa37c27fc796fb153445ad2f11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f82ab45b5e893cabcf308d15b8bbf828c5a0303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\fec64409863749e9865935b9a8769626009046ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0359428ab3ef3d09ba59ffeb88763c67a4348f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\653b59e0398dd91e321bdfd89c2adcae964a405f\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_50d2b861111c97e2329b31a0fe07df81fbe30585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\fc036ebb06341056ba9dfc59d76b4dcc0f5592f0\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5211b2e708f5b0fae735a4eac9e3af32749f255c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c396a4f2fb9567d37f5258f7e39bc77f34caf1">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c1c85bf1418bdcec6c7f7948056587660e533d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\5415eb6ee16dc236993b488dea58a78658ea50f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b284f697c9c849859f2298c9182a5cb7cac2e19f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\0ac96b6872a84c6ce2dd76ad36ec685c3c3da663\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_16d12777daa413976e5f6980511428d4c2b40095\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_289b9349d3144273f79598e51a932fd11b82fcef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\4fa1add22b8ef940c13017ea09049e275cdbbf7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_275b04d2b6fffa1b3c39c42e6a3c7ff82ef4734c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1940a9d1cf45181611e3c6ac335e3c13d6f2339f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\c50858912f17ef6c26134d2b9da274ba8242423e\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d268be154c7cbc8b8592d94654623d50c7e087a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\f21ec056aeb6e9c8debfd78eade42624b7490fe2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1479059fb5010c599c2075ec68e8b10575447016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\653b59e0398dd91e321bdfd89c2adcae964a405f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75f44697c4bcc60efb5699d211906e28b55f1ecc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\fc036ebb06341056ba9dfc59d76b4dcc0f5592f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ed1b7f358da4202d21148e638804c45b1322a36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\c50858912f17ef6c26134d2b9da274ba8242423e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_738447261062928330e1f7a5492bd2670f0f2338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\6a5941ff6fd98b55b6bd3408d8f5cf0acd5928ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9849cc74c80863ab6930e9c160fe749f2bf8ccc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\61d171934a9efd1df343becfc9d161122addd19b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6049eaccf490bbd86ce42c9ecf39b0ac3627a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\0ac96b6872a84c6ce2dd76ad36ec685c3c3da663\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63899801551768af8868e74611b8d652af8549e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\1508517b46f8fd80fd7d179c81438aba77497257\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b03f94eb99eb22e90b5cb89417e7afce81a52672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\14556448727c1cb83e8d51ae63c58d0a473efd80\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4f5402e91c196e5d8e00e106606271d7335373d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\examin\.android\build-cache\14556448727c1cb83e8d51ae63c58d0a473efd80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\Documents\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a138ee55cfdedd153c5ad58cdea9dcb5f95c0c6e\classes.dex" />
+    </item>
+
+</items>

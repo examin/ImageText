@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\61d171934a9efd1df343becfc9d161122addd19b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\examin\\.android\\build-cache\\fec64409863749e9865935b9a8769626009046ad\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
